@@ -102,6 +102,47 @@ Open the notebook and run all cells from top to bottom. If a Google Drive link i
 - **Missing geography:** The label `No US State` represents a missing state value and does not, by itself, confirm that a facility is foreign. State information may also differ from the place of manufacture or distribution.
 - **Relative state rankings:** Gaps between state percentile rankings are screening indicators, rather than proof of under-enforcement.
 
+  
+## Business Impact & Career Skills
+
+This project demonstrates how data analytics can support regulatory risk assessment, operational improvements, and evidence-based decision-making. By analyzing FDA recall and compliance-action data, our team identified patterns that could help organizations better understand product-safety risks and regulatory trends.
+
+### Business Insights & Recommendations
+
+**1. Prioritize facilities with repeated recalls**
+
+Facilities with more than 100 recall events had a higher share with recorded compliance actions (46.4%) compared with facilities with only one recall event (13.5%). This suggests that recall history could serve as a useful indicator when identifying facilities for additional regulatory review.
+
+**2. Investigate medical-device regulatory patterns**
+
+Medical devices accounted for 40.5% of non-tobacco recall events but only 15.2% of non-tobacco compliance actions. Although these measures represent different regulatory activities, this difference highlights an opportunity to investigate oversight patterns and potential areas for improvement.
+
+**3. Strengthen preventive food-safety measures**
+
+Undeclared allergens, Salmonella, and Listeria were associated with approximately 58% of Class I recall events. Organizations could use these findings to prioritize preventive controls, supplier monitoring, and quality-assurance initiatives.
+
+**4. Support data-driven risk assessment**
+
+Combining recall histories, product categories, and compliance-action records can help identify patterns that deserve further investigation. Additional information about inspections, production volume, and facility characteristics could improve future risk assessments.
+
+### Technical & Professional Skills Demonstrated
+
+- **Python & Data Analytics:** Analyzed large datasets to identify trends, relationships, and patterns.
+- **Data Cleaning & Preparation:** Addressed missing values, standardized identifiers, and prepared datasets for analysis.
+- **Data Integration:** Connected FDA recall and compliance-action records using facility identifiers.
+- **Data Visualization:** Used Matplotlib to communicate findings and support analytical interpretations.
+- **Business Problem-Solving:** Translated analytical results into practical recommendations.
+- **Critical Thinking:** Evaluated limitations, interpreted findings carefully, and distinguished correlation from causation.
+- **Teamwork & Collaboration:** Contributed to a collaborative academic analytics project.
+
+### Career Relevance
+
+As a Master of Science in Business Analytics student at Boston University's Questrom School of Business, I am interested in applying analytical and problem-solving skills to business analytics, consulting, and operations management.
+
+This project demonstrates my ability to work with complex datasets, identify meaningful business insights, and communicate findings to support informed decision-making. It also reflects my interest in using data to solve real-world organizational challenges.
+
+
+
 ## Suggested next steps
 
 Further work could combine recall histories with inspection records, facility size, and production volume to test whether recall count and severity help prioritize closer review. Food allergen and pathogen controls, repeat-recall facilities, and medical-device oversight are areas for further investigation.
